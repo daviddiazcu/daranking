@@ -1066,6 +1066,10 @@ footer .footer-content .col-info .bloque {
     margin-bottom: 0;
 }
 
+.fa-envelope:before {
+    content: "\f0e0";
+}
+
 /*----------------------------- DONDEAPUESTO RESPONSIVE --------------------------------------------*/
 
 @media (max-width: 1400px){
