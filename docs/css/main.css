@@ -32,7 +32,7 @@ body {
 }
 
 #contenido .container {
-    padding: 0px;
+    padding: 40px;
 }
 
 #intro {
@@ -887,7 +887,7 @@ header .navbar {
 }   
 
 section div .container {
-    width: 84%;
+    width: 85%;
 }
 
 .breadcrumb {
